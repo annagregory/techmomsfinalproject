@@ -136,17 +136,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 550px;
 }
 
-.project-image-left {
-    margin-right: -40px;
-}
 
-.project-image-right {
-    margin-left: -40px;
-}
-
-.project-image-left :hover {
-    margin-right: 0px;
-}
 
 .testimonial {
     padding: 20px;
@@ -229,12 +219,12 @@ a:hover {
     padding-left: 25%;
 }
 
-.about-me {
+.about-container {
     margin: 40px;
     padding-left: 15%;
 }
 
-.about-me :nth-child(1) {
+.about-title {
     font-size: 36px;
 }
 
@@ -244,6 +234,7 @@ a:hover {
     background-color: teal;
     font-weight: bold;
     font-size: 12px;
+
 }
   
 .about-me-image {
